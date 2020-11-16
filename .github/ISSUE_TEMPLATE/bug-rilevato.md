@@ -1,6 +1,6 @@
 ---
 name: Bug rilevato
-about: Aiutaci a migliorarw
+about: Aiutaci a migliorare
 title: Richiesta di livello A per fix di un bug
 labels: bug
 assignees: Vichingo455
