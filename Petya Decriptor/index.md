@@ -1,7 +1,7 @@
 # Petya Decriptor
 Ciao ciao Petya, decritta i file senza dover pagare il ransomware, usa questo programma
 ## Download
-* [Download programma da MEGA](https://bit.ly/manuelpetyadecriptor)
+* [Download programma](https://vichingo455.github.io/Petya%20Decriptor/Manuel's%20Petya%20Decriptor.exe)
 * [Download portatile](https://vichingo455.github.io/Petya%20Decriptor/Manuel's%20Petya%20Decriptor.rar)
 * [Download AntiPetya Ultimate](https://vichingo455.github.io/Petya%20Decriptor/AntiPetya%20Ultimate%20ISO%20by%20vichingo455.rar)
 ## Immagini di Petya e Petya Decriptor
