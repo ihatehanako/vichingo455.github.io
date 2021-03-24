@@ -5,3 +5,4 @@ VMware è una piattaforma di virtualizzazione avanzata. Gode di un player (free)
 ## ISO di sistemi operativi
 * [macOS Big Sur](magnet:?xt=urn:btih:769190B24C6F45232A441BE7B9760C2225DE5368&dn=RAR&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce) : Serve un client BitTorrent per scaricare
 * [Windows 10](magnet:?xt=urn:btih:B342B5235857422714A0524660AA4194524219B0&dn=RAR&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce): serve client BitTorrent per procedere
+* [macOS Catalina](https://tinyurl.com/47k29f9j) Ti serve un client BitTorrent per scaricare
