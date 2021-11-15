@@ -12,3 +12,6 @@
 
 #### Version 1.0
 - First release of vBotOS
+
+## 2. About command
+About command is `server about` and shows a message in the channel about the server
