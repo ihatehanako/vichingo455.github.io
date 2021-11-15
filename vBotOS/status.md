@@ -18,4 +18,4 @@ Bot connection: Fast ✅
 
 VIP status: Operational ✅
 
-Other bots: No informations ❔
+Other bots: Pretty Operational ☑️
