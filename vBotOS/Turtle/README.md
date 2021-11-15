@@ -1,6 +1,6 @@
 # Turtle
 ## Table of Contents
-1. vBotOS patch notes
+1. [vBotOS patch notes](https://vichingo455.github.io/vBotOS/Turtle/)
 2. About command (server) `server about`
 3. VIP command (`server vip`)
 
