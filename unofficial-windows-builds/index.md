@@ -18,8 +18,9 @@ Here is a mod/bootlegs archive, where you can find the worst windows builds...
 - [XPLite (italian)](https://archive.org/details/xplite-ita)
 - [Windows 7 Ultra](https://archive.org/details/windows-7-ultra)
 
-## List of self-maded Windows PEs
+## List of self-maded/reccommended Windows PEs
 - [Lazesoft Recovery Suite BootCD](https://archive.org/details/lazesoft-recovery-suite-boot-cd)
 - [MultiCommander BootCD](https://archive.org/details/MultiCommander-BootCD)
+- [Redress10 PE](https://archive.org/details/redress10-pe)
 - [TestDisk PE (the worst one)](https://archive.org/details/testdisk-pe)
 - [Vichingo455's WinPE (main WinPE, the best one)](https://archive.org/details/vichingo455-winpe)
