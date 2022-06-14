@@ -17,6 +17,7 @@ Here is a mod/bootlegs archive, where you can find the worst windows builds...
 - [Tiny8.1](https://archive.org/details/Tiny8.1)
 - [XPLite (italian)](https://archive.org/details/xplite-ita)
 - [Windows 7 Ultra](https://archive.org/details/windows-7-ultra)
+- [Windows 10.1 (best for users that hates 11)](https://archive.org/details/Windows10.1)
 
 ## List of self-maded/reccommended Windows PEs
 - [Lazesoft Recovery Suite BootCD](https://archive.org/details/lazesoft-recovery-suite-boot-cd)
