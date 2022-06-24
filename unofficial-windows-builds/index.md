@@ -11,7 +11,7 @@ Here is a mod/bootlegs archive, where you can find the worst windows builds...
 - [Windows 9 Edition](https://archive.org/details/Windows9Edition)
 - [Windows CTAC (the worst one)](https://archive.org/details/WindowsCTAC)
 - [Windows XP Longhorn Reimagined](https://archive.org/details/windows-xp-longhorn-reimagined)
-- [Windows XP Internet Explorer Edition](https://dl.malwarewatch.org/windows/mods/Windows%20XP%20%28IE%29.iso)
+- [Windows XP Integral Edition](https://dl.malwarewatch.org/windows/mods/Windows%20XP%20%28IE%29.iso)
 
 ## List of self-maded builds
 - [Tiny8.1](https://archive.org/details/Tiny8.1)
