@@ -4,6 +4,7 @@ Here is a mod/bootlegs archive, where you can find the worst windows builds...
 
 ## List of all builds
 - [Aero10](https://archive.org/details/aero-10)
+- [ChaineseOS](https://archive.org/details/chainese-os) CAREFUL! CONTAINS VIRUSES!!! 
 - [Rectify11](https://archive.org/details/Rectify11)
 - [Redress10 (best one)](https://archive.org/details/Redress10) (I supported this project)
 - [Tiny 10](https://dl.malwarewatch.org/windows/mods/Tiny%2010.iso)
@@ -14,6 +15,7 @@ Here is a mod/bootlegs archive, where you can find the worst windows builds...
 - [Windows XP Integral Edition](https://dl.malwarewatch.org/windows/mods/Windows%20XP%20%28IE%29.iso)
 
 ## List of self-maded builds
+- [BrailleOS](https://archive.org/details/BrailleOS) (Joke OS using Braille font)
 - [Tiny8.1](https://archive.org/details/Tiny8.1)
 - [XPLite (italian)](https://archive.org/details/xplite-ita)
 - [Windows 7 Ultra](https://archive.org/details/windows-7-ultra)
