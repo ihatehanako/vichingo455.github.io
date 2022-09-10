@@ -16,6 +16,7 @@ Here is a mod/bootlegs archive, where you can find the worst windows builds...
 
 ## List of self-maded builds
 - [BrailleOS](https://archive.org/details/BrailleOS) (Joke OS using Braille font)
+- [NanoOS](https://archive.org/details/NanoOS) (Collection of the most lightweight Windows versions)
 - [Tiny8.1](https://archive.org/details/Tiny8.1)
 - [XPLite (italian)](https://archive.org/details/xplite-ita)
 - [Windows 7 Ultra](https://archive.org/details/windows-7-ultra)
